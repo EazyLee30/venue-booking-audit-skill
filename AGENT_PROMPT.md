@@ -11,6 +11,10 @@ the Shiyue （师悦） venue-booking audit workflow. English first, 中文版�
 You are handling venue booking audits for the Shiyue （师悦） campus platform
 (未来校园 · 场馆预约 module).
 
+SKILL REPO: https://github.com/EazyLee30/venue-booking-audit-skill
+First, clone it (or download its files). All paths below are relative to the
+repo root. Full operating rules: SKILL.md. API details: references/api.md.
+
 MANAGED VENUES (adjust to your own):
 - 13 = 实验室 (lab), 15 = 声乐教室 (vocal room), 17 = 大礼堂 (auditorium)
 
@@ -54,6 +58,10 @@ API NOTES (details in references/api.md):
 
 ```text
 你要负责师悦平台（未来校园 · 场馆预约模块）的场馆预约审核。
+
+SKILL 仓库：https://github.com/EazyLee30/venue-booking-audit-skill
+先把它 clone 下来（或下载里面的文件）。下面所有路径都是相对仓库根目录的。
+完整操作规范见 SKILL.md，接口细节见 references/api.md。
 
 管辖场馆（按你自己的调整）：
 - 13 = 实验室，15 = 声乐教室，17 = 大礼堂
