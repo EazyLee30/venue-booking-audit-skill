@@ -59,6 +59,11 @@ python3 bin/cg_audit.py reject <bookingId>   # reject   (auditStatus=4)
 
 Full operating rules live in [SKILL.md](SKILL.md); API details in [references/api.md](references/api.md).
 
+## One-shot agent prompt
+
+Handing this to another agent? Copy the ready-made prompt from
+[AGENT_PROMPT.md](AGENT_PROMPT.md) — English and 中文 versions, paste and go.
+
 ## Safety rules
 
 - **Never auto-approve or auto-reject.** Each booking needs the human's explicit decision in that turn.
@@ -70,6 +75,7 @@ Full operating rules live in [SKILL.md](SKILL.md); API details in [references/ap
 
 ```
 ├── SKILL.md            # operating rules for agents
+├── AGENT_PROMPT.md     # copy-paste prompt for agents (EN + 中文)
 ├── README.md           # this file (English)
 ├── README.zh-CN.md     # 中文文档
 ├── banner.png   # README banner

@@ -59,6 +59,10 @@ python3 bin/cg_audit.py reject <bookingId>   # 驳回（auditStatus=4）
 
 完整操作规范见 [SKILL.md](SKILL.md)；接口细节见 [references/api.md](references/api.md)。
 
+## 直接丢给 agent 的 prompt
+
+要交给别的 agent？从 [AGENT_PROMPT.md](AGENT_PROMPT.md) 复制现成的 prompt——中英双语，粘贴即用。
+
 ## 安全红线
 
 - **绝不自动通过 / 自动驳回**，每条都要当次人工明确决定。
@@ -70,6 +74,7 @@ python3 bin/cg_audit.py reject <bookingId>   # 驳回（auditStatus=4）
 
 ```
 ├── SKILL.md            # 给 agent 的操作规范
+├── AGENT_PROMPT.md     # 直接复制给 agent 的 prompt（中英双语）
 ├── README.md           # English docs
 ├── README.zh-CN.md     # 本文件
 ├── banner.png   # README 头图
