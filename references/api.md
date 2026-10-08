@@ -20,7 +20,7 @@ params: `start=1`, `size=50`, `unitId=<unitId>`, `status=2`
 相关字段：
 - `id` → 预约 ID（审核用）
 - `venueName` / `venueTypeName` → 场馆
-- `venueTypeId` → 场馆类型；李奕志管辖：`13` 实验室，`15` 声乐教室，`17` 大礼堂
+- `venueTypeId` → 场馆类型；示例：`13` 实验室，`15` 声乐教室，`17` 大礼堂
 - `useUserName`（无则 `creatorName`）→ 申请人
 - `bookingEnd[:10]` → 日期；`sectionName` → 时段（如 `15:30-16:40`）
 - `persons` → 使用人数；`useRemark`/`remark` → 备注；`createdDate` → 提交时间

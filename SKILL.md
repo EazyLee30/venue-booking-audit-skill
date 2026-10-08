@@ -7,7 +7,7 @@ metadata: { "includeInPrompt": true }
 # Venue Booking Audit
 
 ## Purpose
-Handle venue booking audits the way 李奕志 does: he manages 实验室, 声乐教室 and 大礼堂. New pending bookings surface with full details, he decides approve/reject each time, the decision is executed via API, and approved bookings go to the iCloud "工作" calendar. Use this whenever a booking needs auditing, or when setting up the monitoring loop for another agent.
+Handle venue booking audits for the venues you manage (e.g. 实验室, 声乐教室, 大礼堂). New pending bookings surface with full details, he decides approve/reject each time, the decision is executed via API, and approved bookings go to the iCloud "工作" calendar. Use this whenever a booking needs auditing, or when setting up the monitoring loop for another agent.
 
 ## Workflow
 1. **List pending**: run `bin/cg_audit.py list` to get bookings with `status=2` on the managed venues.
