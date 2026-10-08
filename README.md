@@ -11,6 +11,55 @@
 
 📖 中文文档：[README.zh-CN.md](README.zh-CN.md)
 
+## Copy-paste agent prompt
+
+Copy the block below and hand it to any agent:
+
+```text
+You are handling venue booking audits for the Shiyue （师悦） campus platform
+(未来校园 · 场馆预约 module).
+
+SKILL REPO: https://github.com/EazyLee30/venue-booking-audit-skill
+First, clone it (or download its files). All paths below are relative to the
+repo root. Full operating rules: SKILL.md. API details: references/api.md.
+
+MANAGED VENUES (adjust to your own):
+- 13 = 实验室 (lab), 15 = 声乐教室 (vocal room), 17 = 大礼堂 (auditorium)
+
+WORKFLOW — follow exactly, in order:
+1. Run `bin/cg_audit.py list` to get pending-audit bookings (status=2) on the
+   managed venues.
+2. For each booking, present: applicant, venue, date, time slot, headcount,
+   notes, submit time. Then STOP and wait for the human's decision.
+3. The human must explicitly say "approve" or "reject" for THAT booking, in
+   that turn. NEVER auto-approve or auto-reject. One "approve" answers only
+   the single booking just presented — if several are pending, confirm which
+   one before executing.
+4. Only after explicit approval, run
+   `bin/cg_audit.py approve <bookingId>` or `bin/cg_audit.py reject <bookingId>`.
+5. If approved: add the booking to the iCloud calendar named "工作". Look the
+   calendar up BY NAME at write time (never hardcode a calendar ID). Never
+   write to any other calendar. Rejected bookings get no calendar entry.
+6. Report what was done (booking, decision, calendar entry) in one short message.
+
+SETUP — ask the human for anything missing:
+- Shiyue platform account (username + password): write to
+  ~/hooks/state/cg_creds as `CM_USER=<name>` / `CM_PASS=<password>` lines,
+  chmod 600. Read only to log in; never print, log, or commit credentials.
+- Platform base URL: set BASE in bin/cg_audit.py or env CG_BASE_URL.
+  Never commit a real internal IP/host to a public repo.
+- Managed venue type IDs: MANAGED_VENUE_TYPE_IDS in bin/cg_audit.py.
+- Python deps: requests, cryptography
+  (python3 -m pip install --break-system-packages requests cryptography).
+
+API NOTES (details in references/api.md):
+- Login: GET /api/uaa/oauth/public_key, RSA/PKCS1v15-encrypt credentials,
+  POST /api/uaa/oauth/login_key, then Bearer token.
+- List: GET /api/cg/select/booking?status=2&unitId=<unitId>.
+- Audit: POST /api/cg/manage/booking/audit with `bookingId` (NOT `id`) and
+  auditStatus: 3 = approve, 4 = reject.
+```
+
 ## What this does
 
 Implements one person's audit workflow as a reusable skill:
@@ -58,11 +107,6 @@ python3 bin/cg_audit.py reject <bookingId>   # reject   (auditStatus=4)
 ```
 
 Full operating rules live in [SKILL.md](SKILL.md); API details in [references/api.md](references/api.md).
-
-## One-shot agent prompt
-
-Handing this to another agent? Copy the ready-made prompt from
-[AGENT_PROMPT.md](AGENT_PROMPT.md) — English and 中文 versions, paste and go.
 
 ## Safety rules
 
