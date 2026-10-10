@@ -1,1 +1,148 @@
-IVtiYW5uZXJdKGJhbm5lci5wbmcpCgojIHZlbnVlLWJvb2tpbmctYXVkaXQtc2tpbGwKCiFbcmVwb10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS/ku5PlupMt5YWs5byALWJyaWdodGdyZWVuKQohW3B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9weXRob24tMy44JTJCLWJsdWUpCiFbcGxhdGZvcm1dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uv5bmz5Y+wLeW4iOaCpuacquadpeagoeWbrS1ncmVlbikKIVt0eXBlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL+exu+Weiy1hZ2VudCUyMHNraWxsLXB1cnBsZSkKCj4g6ZKI5a+5KirluIjmgqblubPlj7AqKu+8iOacquadpeagoeWbrSDCtyDlnLrppobpooTnuqbmqKHlnZfvvInnmoTlnLrppobpooTnuqblrqHmoLggc2tpbGzvvIzkvpsgYWdlbnQg5aSN55So44CCCgrwn5OWIEVuZ2xpc2g6IFtSRUFETUUubWRdKFJFQURNRS5tZCkKCiMjIOebtOaOpeWkjeWItue7mSBhZ2VudCDnmoQgcHJvbXB0CgrlpI3liLbkuIvpnaLnmoTku6PnoIHlnZfvvIzkuKLnu5nku7vkvZUgYWdlbnQg5Y2z55So77yaCgpgYGB0ZXh0CuS9oOimgei0n+i0o+W4iOaCpuW5s+WPsO+8iOacquadpeagoeWbrSDCtyDlnLrppobpooTnuqbmqKHlnZfvvInnmoTlnLrppobpooTnuqblrqHmoLjjgIIKClNLSUxMIOS7k+W6k++8mmh0dHBzOi8vZ2l0aHViLmNvbS9FYXp5TGVlMzAvdmVudWUtYm9va2luZy1hdWRpdC1za2lsbArlhYjmiorlroMgY2xvbmUg5LiL5p2l77yI5oiW5LiL6L296YeM6Z2i55qE5paH5Lu277yJ44CC5LiL6Z2i5omA5pyJ6Lev5b6E6YO95piv55u45a+55LuT5bqT5qC555uu5b2V55qE44CCCuWujOaVtOaTjeS9nOinhOiMg+ingSBTS0lMTC5tZO+8jOaOpeWPo+e7huiKguingSByZWZlcmVuY2VzL2FwaS5tZOOAggoK566h6L6W5Zy66aaG77yI5oyJ5L2g6Ieq5bex55qE6LCD5pW077yJ77yaCi0gMTMgPSDlrp7pqozlrqTvvIwxNSA9IOWjsOS5kOaVmeWupO+8jDE3ID0g5aSn56S85aCCCgrlt6XkvZzmtYHigJTigJTkuKXmoLzmjInpobrluo/miafooYzvvJoKMS4g6L+Q6KGMIGBiaW4vY2dfYXVkaXQucHkgbGlzdGDvvIzliJflh7rnrqHovpblnLrppobnmoTlvoXlrqHmoLjpooTnuqbvvIhzdGF0dXM9Mu+8ieOAggoyLiDmr4/mnaHpooTnuqbmkYblh7rvvJrnlLPor7fkurrjgIHlnLrppobjgIHml6XmnJ/jgIHml7bmrrXjgIHkurrmlbDjgIHlpIfms6jjgIHmj5DkuqTml7bpl7TvvIznhLblkI7lgZzkuIvmnaXnrYnkurrnmoTlhrPlrprjgIIKMy4g5q+P5p2h6YO95b+F6aG755Sx5Lq65b2T5qyh5Lqy5Y+j6K+0IumAmui/hyLmiJYi6amz5ZueIu+8jOe7neS4jeiHquWKqOWuoeaJueOAguS4gOWPpSLpgJrov4ci5Y+q5a+55bqU5Yia5omN5pGG5Ye65p2l55qE6YKj5LiA5p2h77yb5aSa5p2h5b6F5a6h5pe25YWI56Gu6K6k5piv5ZOq5p2h5YaN5omn6KGM44CCCjQuIOWPquacieaLv+WIsOaYjuehruaJueWHhuWQju+8jOaJjei/kOihjCBgYmluL2NnX2F1ZGl0LnB5IGFwcHJvdmUgPGJvb2tpbmdJZD5gCiAgIOaIliBgYmluL2NnX2F1ZGl0LnB5IHJlamVjdCA8Ym9va2luZ0lkPmDjgIIKNS4g6YCa6L+H55qE77ya6K6w6L+bIGlDbG91ZCDlkI3lj6vjgIzlt6XkvZzjgI3nmoTml6XljobjgILlhpnlhaXml7bmjInlkI3np7Dlrp7ml7bmn6Xmib7vvIjnu53kuI3noaznvJbnoIHml6XljoYgSUTvvInvvIzkuI3lhpnlhbbku5bku7vkvZXml6XljobjgILpqbPlm57nmoTkuI3lu7rml6XljobjgIIKNi4g5LiA5Y+l6K+d5rGH5oql5YGa5LqG5LuA5LmI77yI5ZOq5p2h44CB5LuA5LmI5Yaz5a6a44CB5pel5Y6G5piv5ZCm5bey6K6w77yJ44CCCgrpnIDopoHkurrmj5DkvpvnmoTkuJzopb/vvIjnvLrku4DkuYjlsLHpl67vvInvvJoKLSDluIjmgqblubPlj7DotKblj7flr4bnoIHvvJrlhpnov5sgfi9ob29rcy9zdGF0ZS9jZ19jcmVkc++8jOS4pOihjCBDTV9VU0VSPS9DTV9QQVNTPe+8jGNobW9kIDYwMOOAguWPqueUqOS6jueZu+W9le+8jOe7neS4jeaJk+WNsOOAgeS4jeiusOaXpeW/l+OAgeS4jeaPkOS6pOOAggotIOW5s+WPsOWcsOWdgO+8muaUuSBiaW4vY2dfYXVkaXQucHkg6YeM55qEIEJBU0XvvIzmiJborr7njq/looPlj5jph48gQ0dfQkFTRV9VUkzjgILlhazlvIDku5PlupPph4zkuI3opoHlhpnnnJ/lrp7lhoXnvZEgSVDjgIIKLSDnrqHovpblnLrppobnsbvlnosgSUTvvJpiaW4vY2dfYXVkaXQucHkg6YeM55qEIE1BTkFHRURfVkVOVUVfVFlQRV9JRFPjgIIKLSBQeXRob24g5L6d6LWW77yacmVxdWVzdHPjgIFjcnlwdG9ncmFwaHnjgIIKCuaOpeWPo+imgeeCue+8iOivpuingSByZWZlcmVuY2VzL2FwaS5tZO+8ie+8mgotIOeZu+W9le+8mkdFVCAvYXBpL3VhYS9vYXV0aC9wdWJsaWNfa2V5IOWPluWFrOmSpe+8jFJTQSDliqDlr4botKblj7flr4bnoIHvvIwKICBQT1NUIC9hcGkvdWFhL29hdXRoL2xvZ2luX2tlee+8jOS5i+WQjuW4piBCZWFyZXIgdG9rZW7jgIIKLSDmn6XlvoXlrqHvvJpHRVQgL2FwaS9jZy9zZWxlY3QvYm9va2luZz9zdGF0dXM9MiZ1bml0SWQ9PHVuaXRJZD7jgIIKLSDlrqHmoLjvvJpQT1NUIC9hcGkvY2cvbWFuYWdlL2Jvb2tpbmcvYXVkaXTvvIzlj4LmlbDlkI3mmK8gYm9va2luZ0lk77yI5LiN5pivIGlk77yJ77yMCiAgYXVkaXRTdGF0dXPvvJozID0g6YCa6L+H77yMNCA9IOmps+WbnuOAggpgYGAKCiMjIOe7mSBNdXNlIOeahOmAmueUqCBwcm9tcHTvvIjku7vkvZXpooTnuqbns7vnu5/pg73lj6/nlKjvvIkKCuS4iumdoumCo+auteaYr+e7keWumuW4iOaCpuW5s+WPsOeahOOAguimgeaNouS4gOWll+mihOe6puezu+e7n+OAgeaIluS7jumbtui3nyBNdXNlIOS6pOS7o++8jOeUqOS4i+mdoui/meauteKAlOKAlOWQjOagt+eahOWuoeaguOe6quW+i++8jOS4jeW4puS7u+S9leW5s+WPsOe7huiKgu+8mgoKYGBgdGV4dArkvaDmmK/lnLrppobpooTnuqblrqHmoLjliqnmiYvjgILmiorlvoXlrqHmoLjnmoTpooTnuqbmkYbnu5nkurrnnIvvvIzlj6rmiafooYzku5bkurLlj6Por7TnmoTpgJrov4cv6amz5Zue77yM5bm255WZ5aW95a6M5pW06K6w5b2V44CCCgrlj4LogIPlrp7njrDvvIjluIjmgqblubPlj7DigJTigJTlpI3nlKjlroPnmoTmlrnms5XorrrvvIzmjqXlj6PlsYLmjaLmiJDkvaDoh6rlt7HnmoTns7vnu5/vvInvvJoKaHR0cHM6Ly9naXRodWIuY29tL0VhenlMZWUzMC92ZW51ZS1ib29raW5nLWF1ZGl0LXNraWxsCuaTjeS9nOinhOiMg+ingSBTS0lMTC5tZO+8m2Jpbi9jZ19hdWRpdC5weSDlkowgcmVmZXJlbmNlcy9hcGkubWQg5piv5LiA5aWX5YW35L2T55qE5o6l5Y+j5a6e546w44CCCgrlt6XkvZzmtYHigJTigJTkuKXmoLzmjInpobrluo/miafooYzvvJoKMS4g5p+l77ya55So6L+Z5Liq5Lq655qE6aKE57qm57O757uf55qE5p+l6K+i5o6l5Y+j5ZKM6Ym05p2D77yM5YiX5Ye65LuW566h6L6W5Zy66aaG55qE5b6F5a6h5qC46aKE57qm44CCCjIuIOaRhu+8muavj+adoeWIl+WHuueUs+ivt+S6uuOAgeWcuummhuOAgeaXpeacn+OAgeaXtuauteOAgeS6uuaVsOOAgeWkh+azqOOAgeaPkOS6pOaXtumXtO+8jOeEtuWQjuWBnOS4i+adpeetieS6uuWGs+WumuOAggozLiDlrprvvJrmr4/mnaHlv4XpobvnlLHkurrlvZPmrKHkurLlj6Por7Qi6YCa6L+HIuaIliLpqbPlm54i44CC57ud5LiN6Ieq5Yqo5a6h5om544CC5LiA5Y+l6YCa6L+H5Y+q5a+55bqU5LiA5p2h77yb5aSa5p2h5b6F5a6h5pe25YWI56Gu6K6k5piv5ZOq5p2h5YaN5omn6KGM44CCCjQuIOaJp+ihjO+8muWPquacieaLv+WIsOaYjuehruaJueWHhu+8jOaJjeiwg+WuoeaguOaOpeWPo++8jOWPguaVsOWQjeS4peagvOaMieaOpeWPo+imgeaxguadpeOAggo1LiDlkIzmraXvvIjlj6rpkojlr7npgJrov4fnmoTvvInvvJrorrDov5vkurrmjIflrprnmoTml6XljobigJTigJTlhpnlhaXml7bmjInlkI3np7Dlrp7ml7bmn6Xmib7vvIzkuI3noaznvJbnoIEgSUTvvIzkuI3lhpnku7vkvZXlhbbku5bml6XljobjgILpqbPlm57nmoTkuI3lu7rjgIIKNi4g5rGH5oql77ya5LiA5Y+l6K+d4oCU4oCU5ZOq5p2h44CB5LuA5LmI5Yaz5a6a44CB5pel5Y6G6K6w5LqG5rKh44CCCgrnvLrku4DkuYjlsLHpl67kurropoHvvJoKLSDpooTnuqbns7vnu5/lh63or4HvvIjotKblj7flr4bnoIHlkowv5oiWIEFQSSB0b2tlbu+8ie+8mjYwMCDmnYPpmZDlrZjmlL7vvIzlj6rnlKjkuo7pibTmnYPvvIznu53kuI3miZPljbDjgIHkuI3orrDml6Xlv5fjgIHkuI3mj5DkuqTjgIIKLSDns7vnu5/lnLDlnYAgLyDmjqXlj6PmlofmoaPjgILlhazlvIDku5PlupPph4zkuI3lhpnnnJ/lrp7lhoXnvZHlnLDlnYDjgIIKLSDku5botJ/otKPlk6rkupvlnLrppobvvIhJRCDmiJbnsbvlnovvvInjgIIKLSDpgJrov4fnmoTpooTnuqborrDov5vlk6rkuKrml6XljobjgIIKCumTgeW+i++8mgotIOayoeacieS6uuW9k+asoeS6suWPo+aMh+S7pO+8jOe7neS4jeWKqOWuoeaguOaOpeWPo+OAggotIOWHreivgeWPqueUqOS6jumJtOadg++8jOS4jei/m+iBiuWkqeiusOW9leOAgeiusOW/huOAgeaXpeW/l+WSjOS7o+eggeOAggotIOiiq+e6oOato+aXtueri+WIu+aNouaWueahiO+8jOS4jei+qeino+OAggotIOWPr+mAie+8muWumuaXtui9ruivou+8jOacieaWsOW+heWuoeWwseaPkOmGku+8m+S5i+WJjemAmuefpei/h+OAgeS9huS6uui/mOayoeaLjeadv+eahOWNleWtkOWmguaenOeqgeeEtuS7juW+heWuoemHjOa2iOWkse+8jOS5n+aPkOmGkuS4gOWjsO+8iOWPr+iDveaYr+WIq+S6uuWKqOS6hu+8ieOAggpgYGAKCiMjIOi/meS4qiBza2lsbCDlgZrku4DkuYgKCuaKiuS4gOS4quS6uueahOWuoeaguOW3peS9nOa1geWbuuWMluaIkOWPr+WkjeeUqOeahCBza2lsbO+8mgoKMS4gKirmn6UqKiDigJTigJQg5YiX5Ye65L2g566h6L6W5Zy66aaG55qE5b6F5a6h5qC46aKE57qm77yIYHN0YXR1cz0yYO+8ieOAggoyLiAqKuaRhioqIOKAlOKAlCDlsZXnpLrnlLPor7fkurrjgIHlnLrppobjgIHml6XmnJ/jgIHml7bmrrXjgIHkurrmlbDjgIHlpIfms6jjgIHmj5DkuqTml7bpl7TvvIznhLblkI7lgZzkuIvmnaXnrYnjgIIKMy4gKirlrpoqKiDigJTigJQg5q+P5p2h6YO95b+F6aG755Sx5Lq65b2T5qyh5Lqy5Y+j6K+0IumAmui/hyLmiJYi6amz5ZueIu+8jOe7neS4jeiHquWKqOWuoeaJueOAggo0LiAqKuaJp+ihjCoqIOKAlOKAlCDosIPlrqHmoLjmjqXlj6PvvIhgYXVkaXRTdGF0dXM9M2Ag6YCa6L+HIC8gYDRgIOmps+Wbnu+8ieOAggo1LiAqKuWQjOatpSoqIOKAlOKAlCDpgJrov4fnmoTpooTnuqborrDov5sgaUNsb3Vk44CM5bel5L2c44CN5pel5Y6G77yI5YaZ5YWl5pe25oyJ5ZCN56ew5a6e5pe25p+l5om+77yM5LiN56Gs57yW56CBIElE77yJ44CCCgojIyDpnIDopoHkvaDmj5Dkvpvku4DkuYgKCnwgIyB8IOS6i+mhuSB8IOaUvuWcqOWTqumHjCB8IOivtOaYjiB8CnwtLS18LS0tLS0tfC0tLS0tLS0tLS18LS0tLS0tfAp8IDEgfCAqKuW4iOaCpuW5s+WPsOi0puWPt+WvhueggSoqIHwgYH4vaG9va3Mvc3RhdGUvY2dfY3JlZHNg77yM5Lik6KGM77yaYENNX1VTRVI9POeUqOaIt+WQjT5g44CBYENNX1BBU1M9POWvhueggT5g77yM5paH5Lu25p2D6ZmQIGA2MDBgIHwg5Y+q55So5LqO55m75b2V77yM57ud5LiN5omT5Y2w44CB5LiN6K6w5pel5b+X44CB5LiN5o+Q5Lqk44CC5pS55a+G56CB5ZCO6K6w5b6X5pu05paw6L+Z5Liq5paH5Lu277yM5ZCm5YiZ55m75b2V5aSx6LSl44CCIHwKfCAyIHwgKirlubPlj7DnvZHlnYAgLyBJUCoqIHwgYGJpbi9jZ19hdWRpdC5weWAg6YeM55qEIGBCQVNFYO+8iOaIlueOr+Wig+WPmOmHjyBgQ0dfQkFTRV9VUkxg77yJIHwg5L2g5a2m5qCh55qE5biI5oKm5bmz5Y+w5Zyw5Z2A4oCU4oCU5YWs5byA5LuT5bqT6YeM5LiN6KaB5YaZ55yf5a6e5YaF572RIElQ44CCIHwKfCAzIHwgKirnrqHovpbnmoTlnLrppobnsbvlnosgSUQqKiB8IGBiaW4vY2dfYXVkaXQucHlgIOmHjOeahCBgTUFOQUdFRF9WRU5VRV9UWVBFX0lEU2AgfCDpu5jorqQgYDEzYCDlrp7pqozlrqTjgIFgMTVgIOWjsOS5kOaVmeWupOOAgWAxN2Ag5aSn56S85aCC44CC5oyJ5L2g5a6e6ZmF5a6h5qC455qE5Zy66aaG6LCD5pW044CCIHwKfCA0IHwgKippQ2xvdWQg5pel5Y6GKiogfCDlhpnlhaXml7bmjInlkI3np7Dlrp7ml7bmn6Xmib4gfCDpgJrov4fnmoTpooTnuqblj6rov5vlkI3lj6vjgIzlt6XkvZzjgI3nmoTml6XljobvvIzkuI3lhpnlhbbku5bku7vkvZXml6XljobjgIIgfAp8IDUgfCAqKumFjeWvueeahCBpUGhvbmXvvIjlt7LmjojmnYPml6XljobvvIkqKiB8IOmAmui/hyBhZ2VudCDnmoTorr7lpIflt6XlhbfosIPnlKggfCDlrqHmoLjpgJrov4flkI7nlKjmnaXlu7rml6Xljobkuovku7bjgIIgfAoKUHl0aG9uIOS+nei1lu+8mmByZXF1ZXN0c2DjgIFgY3J5cHRvZ3JhcGh5YArvvIjnvLrlpLHml7bmiafooYwgYHB5dGhvbjMgLW0gcGlwIGluc3RhbGwgLS1icmVhay1zeXN0ZW0tcGFja2FnZXMgcmVxdWVzdHMgY3J5cHRvZ3JhcGh5YO+8mwrms6jmhI8gVk0g6YeN6KOF5Lya5riF56m657O757uf5YyF77yMaW1wb3J0IOaKpemUmeaXtumHjeijheWNs+WPr+OAgu+8iQoKIyMg5b+r6YCf5LiK5omLCgpgYGBiYXNoCiMgMS4g5YaZ5Yet6K+B77yI5p2D6ZmQIDYwMO+8jOi/meS4quaWh+S7tue7neS4jeaPkOS6pO+8iQpwcmludGYgJ0NNX1VTRVI9POeUqOaIt+WQjT5cbkNNX1BBU1M9POWvhueggT5cbicgPiB+L2hvb2tzL3N0YXRlL2NnX2NyZWRzCmNobW9kIDYwMCB+L2hvb2tzL3N0YXRlL2NnX2NyZWRzCgojIDIuIOijheS+nei1lgpweXRob24zIC1tIHBpcCBpbnN0YWxsIC0tYnJlYWstc3lzdGVtLXBhY2thZ2VzIHJlcXVlc3RzIGNyeXB0b2dyYXBoeQoKIyAzLiDlhpLng5/mtYvor5XvvIjlj6ror7vvvIkKcHl0aG9uMyBiaW4vY2dfYXVkaXQucHkgbGlzdApgYGAKCiMjIOe7mSBhZ2VudCDnmoTnlKjms5UKCmBgYApweXRob24zIGJpbi9jZ19hdWRpdC5weSBsaXN0ICAgICAgICAgICAgICAgICAjIOWIl+WHuueuoei+luWcuummhueahOW+heWuoeaguApweXRob24zIGJpbi9jZ19hdWRpdC5weSBhcHByb3ZlIDxib29raW5nSWQ+ICAjIOmAmui/h++8iGF1ZGl0U3RhdHVzPTPvvIkKcHl0aG9uMyBiaW4vY2dfYXVkaXQucHkgcmVqZWN0IDxib29raW5nSWQ+ICAgIyDpqbPlm57vvIhhdWRpdFN0YXR1cz0077yJCmBgYAoK5a6M5pW05pON5L2c6KeE6IyD6KeBIFtTS0lMTC5tZF0oU0tJTEwubWQp77yb5o6l5Y+j57uG6IqC6KeBIFtyZWZlcmVuY2VzL2FwaS5tZF0ocmVmZXJlbmNlcy9hcGkubWQp44CCCgojIyDlronlhajnuqLnur8KCi0gKirnu53kuI3oh6rliqjpgJrov4cgLyDoh6rliqjpqbPlm54qKu+8jOavj+adoemDveimgeW9k+asoeS6uuW3peaYjuehruWGs+WumuOAggotIOS4gOWPpSLpgJrov4ci5Y+q5a+55bqU5Yia5omN5pGG5Ye65p2l55qE6YKj5LiA5p2h77yb5aSa5p2h5b6F5a6h5pe25YWI56Gu6K6k5piv5ZOq5p2h5YaN5omn6KGM44CCCi0g6YCa6L+HIOKGkiDlj6rov5sgaUNsb3Vk44CM5bel5L2c44CN5pel5Y6G77yb6amz5ZueIOKGkiDkuI3lu7rml6XljobjgIIKLSDotKblj7flr4bnoIHnu53kuI3miZPljbDjgIHkuI3orrDml6Xlv5fjgIHkuI3mj5DkuqTjgIIKCiMjIOebruW9lee7k+aehAoKYGBgCuKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICMg57uZIGFnZW50IOeahOaTjeS9nOinhOiMgwrilJzilIDilIAgQUdFTlRfUFJPTVBULm1kICAgICAjIOebtOaOpeWkjeWItue7mSBhZ2VudCDnmoQgcHJvbXB077yI5Lit6Iux5Y+M6K+t77yJCuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICMgRW5nbGlzaCBkb2NzCuKUnOKUgOKUgCBSRUFETUUuemgtQ04ubWQgICAgICMg5pys5paH5Lu2CuKUnOKUgOKUgCBiYW5uZXIucG5nICAgIyBSRUFETUUg5aS05Zu+CuKUnOKUgOKUgCBiaW4vY2dfYXVkaXQucHkgICAgICMgbGlzdCAvIGFwcHJvdmUgLyByZWplY3Qg5bel5YW3CuKUlOKUgOKUgCByZWZlcmVuY2VzL2FwaS5tZCAgICMg5biI5oKm5bmz5Y+w5o6l5Y+j5Y+C6ICDCmBgYAo=
+![banner](banner.png)
+
+# venue-booking-audit-skill
+
+![repo](https://img.shields.io/badge/仓库-公开-brightgreen)
+![python](https://img.shields.io/badge/python-3.8%2B-blue)
+![platform](https://img.shields.io/badge/平台-师悦未来校园-green)
+![type](https://img.shields.io/badge/类型-agent%20skill-purple)
+
+> 针对**师悦平台**（未来校园 · 场馆预约模块）的场馆预约审核 skill，供 agent 复用。
+
+📖 English: [README.md](README.md)
+
+## 直接复制给 agent 的 prompt
+
+复制下面的代码块，丢给任何 agent 即用：
+
+```text
+你要负责师悦平台（未来校园 · 场馆预约模块）的场馆预约审核。
+
+SKILL 仓库：https://github.com/EazyLee30/venue-booking-audit-skill
+先把它 clone 下来（或下载里面的文件）。下面所有路径都是相对仓库根目录的。
+完整操作规范见 SKILL.md，接口细节见 references/api.md。
+
+管辖场馆（按你自己的调整）：
+- 13 = 实验室，15 = 声乐教室，17 = 大礼堂
+
+工作流——严格按顺序执行：
+1. 运行 `bin/cg_audit.py list`，列出管辖场馆的待审核预约（status=2）。
+2. 每条预约摆出：申请人、场馆、日期、时段、人数、备注、提交时间，然后停下来等人的决定。
+3. 每条都必须由人当次亲口说"通过"或"驳回"，绝不自动审批。一句"通过"只对应刚才摆出来的那一条；多条待审时先确认是哪条再执行。
+4. 只有拿到明确批准后，才运行 `bin/cg_audit.py approve <bookingId>`
+   或 `bin/cg_audit.py reject <bookingId>`。
+5. 通过的：记进 iCloud 名叫「工作」的日历。写入时按名称实时查找（绝不硬编码日历 ID），不写其他任何日历。驳回的不建日历。
+6. 一句话汇报做了什么（哪条、什么决定、日历是否已记）。
+
+需要人提供的东西（缺什么就问）：
+- 师悦平台账号密码：写进 ~/hooks/state/cg_creds，两行 CM_USER=/CM_PASS=，chmod 600。只用于登录，绝不打印、不记日志、不提交。
+- 平台地址：改 bin/cg_audit.py 里的 BASE，或设环境变量 CG_BASE_URL。公开仓库里不要写真实内网 IP。
+- 管辖场馆类型 ID：bin/cg_audit.py 里的 MANAGED_VENUE_TYPE_IDS。
+- Python 依赖：requests、cryptography。
+
+接口要点（详见 references/api.md）：
+- 登录：GET /api/uaa/oauth/public_key 取公钥，RSA 加密账号密码，
+  POST /api/uaa/oauth/login_key，之后带 Bearer token。
+- 查待审：GET /api/cg/select/booking?status=2&unitId=<unitId>。
+- 审核：POST /api/cg/manage/booking/audit，参数名是 bookingId（不是 id），
+  auditStatus：3 = 通过，4 = 驳回。
+```
+
+## 给 Muse 的通用 prompt（任何预约系统都可用）
+
+上面那段是绑定师悦平台的。要换一套预约系统、或从零跟 Muse 交代，用下面这段——同样的审核纪律，不带任何平台细节：
+
+```text
+你是场馆预约审核助手。把待审核的预约摆给人看，只执行他亲口说的通过/驳回，并留好完整记录。
+
+参考实现（师悦平台——复用它的方法论，接口层换成你自己的系统）：
+https://github.com/EazyLee30/venue-booking-audit-skill
+操作规范见 SKILL.md；bin/cg_audit.py 和 references/api.md 是一套具体的接口实现。
+
+工作流——严格按顺序执行：
+1. 查：用这个人的预约系统的查询接口和鉴权，列出他管辖场馆的待审核预约。
+2. 摆：每条列出申请人、场馆、日期、时段、人数、备注、提交时间，然后停下来等人决定。
+3. 定：每条必须由人当次亲口说"通过"或"驳回"。绝不自动审批。一句通过只对应一条；多条待审时先确认是哪条再执行。
+4. 执行：只有拿到明确批准，才调审核接口，参数名严格按接口要求来。
+5. 同步（只针对通过的）：记进人指定的日历——写入时按名称实时查找，不硬编码 ID，不写任何其他日历。驳回的不建。
+6. 汇报：一句话——哪条、什么决定、日历记了没。
+
+缺什么就问人要：
+- 预约系统凭证（账号密码和/或 API token）：600 权限存放，只用于鉴权，绝不打印、不记日志、不提交。
+- 系统地址 / 接口文档。公开仓库里不写真实内网地址。
+- 他负责哪些场馆（ID 或类型）。
+- 通过的预约记进哪个日历。
+
+铁律：
+- 没有人当次亲口指令，绝不动审核接口。
+- 凭证只用于鉴权，不进聊天记录、记忆、日志和代码。
+- 被纠正时立刻换方案，不辩解。
+- 可选：定时轮询，有新待审就提醒；之前通知过、但人还没拍板的单子如果突然从待审里消失，也提醒一声（可能是别人动了）。
+```
+
+## 这个 skill 做什么
+
+把一个人的审核工作流固化成可复用的 skill：
+
+1. **查** —— 列出你管辖场馆的待审核预约（`status=2`）。
+2. **摆** —— 展示申请人、场馆、日期、时段、人数、备注、提交时间，然后停下来等。
+3. **定** —— 每条都必须由人当次亲口说"通过"或"驳回"，绝不自动审批。
+4. **执行** —— 调审核接口（`auditStatus=3` 通过 / `4` 驳回）。
+5. **同步** —— 通过的预约记进 iCloud「工作」日历（写入时按名称实时查找，不硬编码 ID）。
+
+## 需要你提供什么
+
+| # | 事项 | 放在哪里 | 说明 |
+|---|------|----------|------|
+| 1 | **师悦平台账号密码** | `~/hooks/state/cg_creds`，两行：`CM_USER=<用户名>`、`CM_PASS=<密码>`，文件权限 `600` | 只用于登录，绝不打印、不记日志、不提交。改密码后记得更新这个文件，否则登录失败。 |
+| 2 | **平台网址 / IP** | `bin/cg_audit.py` 里的 `BASE`（或环境变量 `CG_BASE_URL`） | 你学校的师悦平台地址——公开仓库里不要写真实内网 IP。 |
+| 3 | **管辖的场馆类型 ID** | `bin/cg_audit.py` 里的 `MANAGED_VENUE_TYPE_IDS` | 默认 `13` 实验室、`15` 声乐教室、`17` 大礼堂。按你实际审核的场馆调整。 |
+| 4 | **iCloud 日历** | 写入时按名称实时查找 | 通过的预约只进名叫「工作」的日历，不写其他任何日历。 |
+| 5 | **配对的 iPhone（已授权日历）** | 通过 agent 的设备工具调用 | 审核通过后用来建日历事件。 |
+
+Python 依赖：`requests`、`cryptography`
+（缺失时执行 `python3 -m pip install --break-system-packages requests cryptography`；
+注意 VM 重装会清空系统包，import 报错时重装即可。）
+
+## 快速上手
+
+```bash
+# 1. 写凭证（权限 600，这个文件绝不提交）
+printf 'CM_USER=<用户名>\nCM_PASS=<密码>\n' > ~/hooks/state/cg_creds
+chmod 600 ~/hooks/state/cg_creds
+
+# 2. 装依赖
+python3 -m pip install --break-system-packages requests cryptography
+
+# 3. 冒烟测试（只读）
+python3 bin/cg_audit.py list
+```
+
+## 给 agent 的用法
+
+```
+python3 bin/cg_audit.py list                 # 列出管辖场馆的待审核
+python3 bin/cg_audit.py approve <bookingId>  # 通过（auditStatus=3）
+python3 bin/cg_audit.py reject <bookingId>   # 驳回（auditStatus=4）
+```
+
+完整操作规范见 [SKILL.md](SKILL.md)；接口细节见 [references/api.md](references/api.md)。
+
+## 安全红线
+
+- **绝不自动通过 / 自动驳回**，每条都要当次人工明确决定。
+- 一句"通过"只对应刚才摆出来的那一条；多条待审时先确认是哪条再执行。
+- 通过 → 只进 iCloud「工作」日历；驳回 → 不建日历。
+- 账号密码绝不打印、不记日志、不提交。
+
+## 目录结构
+
+```
+├── SKILL.md            # 给 agent 的操作规范
+├── AGENT_PROMPT.md     # 直接复制给 agent 的 prompt（中英双语）
+├── README.md           # English docs
+├── README.zh-CN.md     # 本文件
+├── banner.png   # README 头图
+├── bin/cg_audit.py     # list / approve / reject 工具
+└── references/api.md   # 师悦平台接口参考
+```
